@@ -6,7 +6,7 @@ A frontend developer from South Wales, UK
 
 ## Code Interests
 - 🔭 Lover of the frontend but not afraid of some full-stack JavaScript
-- ⚡ Next, TypeScript, Tailwind and GraphQL is what excites me right now
+- ⚡ Next, TypeScript, Tailwind and GraphQL are what excites me right now
 
 ## Other
 
