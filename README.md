@@ -6,7 +6,11 @@ A frontend developer from South Wales, UK
 
 ## Code Interests
 - 🔭 Lover of the frontend but not afraid of some full-stack JavaScript
-- ⚡ Next, TypeScript, Tailwind and GraphQL are what excites me right now
+- ⚡ Next, TypeScript, Tailwind and Tanstack Query are what excites me right now
+
+## Commercial experience includes (but not limited to):
+React (OOP and functional), Next.js, TypeScript, Tailwind, ES6 JavaScript, Context API, React/Tanstack Query, Redux (redux-thunks), Storybook, Chromatic, Percy, Jest, React Testing Library, Headless components (e.g. HeadlessUI and Radix), Styled-Components, CSS, SASS (SCSS syntax), Node SASS, Git, PHP (legacy), HTML, jQuery, MySQL, Backbone.js, Yup, React Hook Form, GraphQL, Figma, TortoiseSVN, Apache.
+  
 
 ## Other
 
